@@ -1,14 +1,14 @@
 
 
-function Home() {
+function Product() {
     
     return (
       <div style={{ padding: 20 }}>
-        <h2>Home View</h2>
+        <h2>Product</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adip.</p>
       </div>
     );
   }
 
 
-export default Home; 
+export default Product; 
